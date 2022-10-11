@@ -164,7 +164,7 @@ Maintaining a clean separation of concerns makes the developing, maintaining and
 >
 > #### **for the developer to edit the source code manually if the needs arise**
 >
-> #### And most of all, It’s fun!        [Download Setup here](https://phprad.com/info/downloadstarted/vuerad)...
+> #### And most of all, It’s fun!        [Download Setup](https://phprad.com/info/download) here...
 
 [\
 ](https://phprad.com/info/downloadstarted/vuerad)
